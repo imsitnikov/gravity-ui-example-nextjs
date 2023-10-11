@@ -1,0 +1,10 @@
+@import '~@gravity-ui/uikit/styles/fonts.css';
+@import '~@gravity-ui/uikit/styles/styles.css';
+
+html,
+body,
+#__next {
+    height: 100%;
+    min-width: 320px;
+    margin: 0;
+}
